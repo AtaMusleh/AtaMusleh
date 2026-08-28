@@ -61,7 +61,13 @@ const ata = {
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+### 🚀 Featured Projects
 
+**[FX Convert](https://github.com/AtaMusleh/fx-convert)** — [Live demo](https://fx-convert-black.vercel.app)
+Currency converter with historical exchange rate charts using European Central Bank data. Debounced conversion, server-side cached API routes, WCAG-audited light and dark themes.
+`Next.js 16` `TypeScript` `Tailwind` `shadcn/ui` `Recharts`
+
+---
 ### 📫 Let's Connect
 
 I'm open to **remote full-stack roles** (preferred) or **relocation with visa sponsorship**. Best way to reach me:
