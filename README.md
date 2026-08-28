@@ -67,6 +67,9 @@ const ata = {
 Currency converter with historical exchange rate charts using European Central Bank data. Debounced conversion, server-side cached API routes, WCAG-audited light and dark themes.
 `Next.js 16` `TypeScript` `Tailwind` `shadcn/ui` `Recharts`
 
+**[LinkSnip](https://github.com/AtaMusleh/linksnip)** — [Live demo](https://linksnip-vert.vercel.app)
+URL shortener with click analytics. Non-blocking click tracking, collision-safe slug generation, per-link referrer breakdown and 30-day charts.
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Recharts`
 ---
 ### 📫 Let's Connect
 
