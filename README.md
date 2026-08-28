@@ -20,7 +20,7 @@ const ata = {
   currentlyBuilding: "FX Vision — a real-time currency & portfolio tracker",
   learning: ["System design", "Advanced Next.js patterns", "AWS"],
   interests: ["Fintech", "Trading systems", "Clean architecture"],
-  openTo: "Remote roles worldwide 🌍",
+  openTo: "Remote (preferred) · relocation with visa sponsorship 🌍",
   funFact: "I ship first, then debug my future self's confusion",
 };
 ```
@@ -64,7 +64,7 @@ const ata = {
 
 ### 📫 Let's Connect
 
-I'm open to **remote full-stack roles** and interesting collaborations. Best way to reach me:
+I'm open to **remote full-stack roles** (preferred) or **relocation with visa sponsorship**. Best way to reach me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ata-musleh-53600b265/)
 - 📧 [atamusleh3@gmail.com](mailto:atamusleh3@gmail.com)
