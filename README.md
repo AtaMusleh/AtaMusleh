@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ata 👋</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4F86F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+ideas+into+shipped+products" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4F86F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+ideas+into+shipped+products" alt="Full-Stack Developer" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ata-musleh-53600b265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -44,7 +44,7 @@ const ata = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-6DB33F?style=flat-square&logo=swagger&logoColor=white)
 
 **Database**
 
@@ -59,15 +59,6 @@ const ata = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtaMusleh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ata's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaMusleh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 ---
 
