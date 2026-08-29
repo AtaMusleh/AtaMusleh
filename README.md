@@ -72,6 +72,14 @@ Currency converter with historical exchange rate charts using European Central B
 URL shortener with click analytics. Non-blocking click tracking, collision-safe slug generation, per-link referrer breakdown and 30-day charts.
 `Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Recharts`
 
+**[TaskFlow API](https://github.com/AtaMusleh/taskflow-api)** — [API docs](https://taskflow-api-production-06cc.up.railway.app/docs)
+REST API for a Kanban task manager. JWT auth, fractional indexing for card ordering, OpenAPI docs generated from the same Zod schemas that validate requests.
+`Express` `TypeScript` `Prisma` `PostgreSQL` `JWT`
+
+**[TaskFlow Client](https://github.com/AtaMusleh/taskflow-client)** — [Live demo](https://taskflow-client-eta.vercel.app)
+React front-end for the TaskFlow API. Drag-and-drop board with optimistic updates, single-flight token refresh, keyboard-accessible dragging.
+`React` `TypeScript` `Vite` `TanStack Query` `dnd-kit`
+
 ---
 ### 📫 Let's Connect
 
