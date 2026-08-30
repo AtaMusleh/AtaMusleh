@@ -80,6 +80,10 @@ REST API for a Kanban task manager. JWT auth, fractional indexing for card order
 React front-end for the TaskFlow API. Drag-and-drop board with optimistic updates, single-flight token refresh, keyboard-accessible dragging.
 `React` `TypeScript` `Vite` `TanStack Query` `dnd-kit`
 
+**[Roam](https://github.com/AtaMusleh/roam)** — [Live demo](https://roam-khaki.vercel.app/trips)
+Turns geotagged photos into an interactive journey map. DBSCAN clustering written from scratch with haversine distance, OpenStreetMap landmark naming via polygon containment, GPS interpolation for photos without coordinates, and a scroll-driven route animation.
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Mapbox` `GSAP`
+
 ---
 ### 📫 Let's Connect
 
